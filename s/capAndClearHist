@@ -1,0 +1,2 @@
+history | cat ClIHist/hist.txt
+history -c

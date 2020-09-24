@@ -1,0 +1,5 @@
+chmod 764 ./s/dbuild ./s/drun ./s/wait4jen ./s/createJobs
+./s/dbuild
+./s/drun
+./s/wait4jen
+./s/createJobs

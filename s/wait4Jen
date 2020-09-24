@@ -1,0 +1,6 @@
+echo +----------------------------------------------------------------------------------------------+
+echo   Until I put something here to make it wait until Jenkins is up and running:
+echo   If the next step fails due to [java.net.SocketException: Unexpected end of file from server]
+echo   you will have to just wait for http://localhost:8181 to display the Jenkins Dashboard.
+echo   Then, call [./s/createJobs] again from here and it will make the job for you in Jenkins.
+echo +----------------------------------------------------------------------------------------------+

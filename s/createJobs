@@ -1,0 +1,2 @@
+java -jar jenkins-cli.jar -s http://localhost:8181/ create-job fsjob < fsjob.xml
+java -jar jenkins-cli.jar -s http://localhost:8181/ create-job jekudo_pipeline < jdkpipe.xml
